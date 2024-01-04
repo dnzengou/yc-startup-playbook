@@ -1,0 +1,229 @@
+﻿🚀🛰️ Coach de startups de tecnologia, 
+aprendizado de máquina e desenvolvedor web
+
+
+	
+
+	4. Primeiro nome:
+	Eugène Désiré
+	5. Nome de família:
+	Nzengou
+	6. Data de nascimento:
+	17/03/1984
+	7. Nacionalidade:
+	Centro-africano, ruandês, belga
+	8. Local de residência:
+	Suécia / Ruanda
+	9. Estado civil:
+	Casado
+	10. Contato:
+	+46 76 5961891 desejo.yavro@gmail.com / des@desiredsolutions.me 
+	
+
+1. Competências linguísticas: Indique competência numa escala de 1 a 5 (1 – excelente; 5 – básico)
+LINGUAGEM
+	LEITURA
+	FALANDO
+	ESCRITA
+	Sango
+	língua materna
+	Francês
+	língua materna
+	Inglês
+	1
+	1
+	1
+	sueco
+	4
+	3
+	3
+	Portugal
+	3
+	3
+	4
+	
+
+	
+
+	
+
+	
+
+	
+
+11. Filiação a órgãos profissionais:
+	AIESEC
+PMI (Instituto de Gerenciamento de Projetos)
+MQQ (Movimento Quebequense da Qualidade)
+	12. Outras habilidades: 
+(por exemplo, conhecimentos de informática, etc.)
+	
+
+Habilidades de programação e simulação
+   * HTML, CSS, JavaScript (React JS/Próximo JS), Python
+   * Pilha de tecnologia de IA generativa: Hugging Face, Langchain, Open AI GPTs API, Pinecone
+   * Pilha de tecnologia Web3: padrões de token ERC20 e ERC721 em Ethereum e Binance Layer-1
+   * Pilha de tecnologia XR: WebGL, ARjs, Unity
+
+
+Habilidades de comunicação
+   * Boas habilidades de comunicação adquiridas através da minha experiência como gerente ou administrador de comunidades de mídia social para vários projetos de startups
+   * Gerenciar comunicação difícil e assertividade; Conflito de gestão
+
+
+Habilidades organizacionais / gerenciais
+   * Inovação inclusiva, diversa e disruptiva
+   * Liderança
+   * Gerenciamento de equipe
+   * Mobilização de recursos
+
+
+	   13. Posição atual:
+	Consultor de Inovação de Mercado e coach de startups
+	   14. Anos na empresa:
+	3
+	
+
+
+
+
+
+
+
+   2. Qualificações principais (relevantes para a tarefa):
+   * IA generativa, ciência de dados, aprendizado de máquina
+   * Computação em nuvem
+   * Tecnologia espacial, Nuclear, Tecnologia profunda, Blockchain e web3, IA e IA generativa, Tecnologia quântica, AR
+   * Programação Python, aplicativos, mapeamento de ecossistema
+   * Processamento de dados, visualização de dados, Business Intelligence
+   * Física, engenharia da computação e desenvolvimento web
+   * Capacitação, treinamento, coaching de startups e inovação
+   * Lean, Six Sigma, Agile, Design Thinking, Design de Soluções e Arquiteto de Soluções
+   * Resolução de problemas complexos (modelagem; simulação; análise)
+
+
+
+
+
+
+   3. Experiência profissional:
+DATA DE –DATA ATÉ
+	LOCALIZAÇÃO
+	ORGANIZAÇÃO
+	POSIÇÃO
+	DESCRIÇÃO
+	12/2020 –
+	SUÉCIA
+	SOLUÇÕES DESEJADAS
+	Consultor de Tecnologia, Inovação Empresarial e Desenvolvedor Web - Freelance
+	Consultoria estratégica e de inovação tecnológica boutique, fornecendo análise de dados, visualização de dados (usando GIS / em QGIS, Power BI, programação python), suporte operacional para organizações inovadoras, treinamento, coaching, serviços de negócios e prototipagem para produtos baseados em tecnologia (alavancando IA - Máquina Learning ou Deep Learning, Blockchain, Internet das Coisas, Realidade Aumentada e Virtual, GIS) para organizações públicas e privadas. Essa função versátil me permite contribuir com equipes multifuncionais e multiculturais distribuídas, impactando os aspectos tecnológicos, comerciais, financeiros e estratégicos das organizações. As ferramentas e métodos aplicados são Lean, Design centrado no ser humano, Agile. Oferecendo aos clientes mentoria de startups e gerenciamento de projetos de TI (estratégia de e-commerce).
+Através do meu trabalho, conheço pessoas interessantes e talentosas, dou e facilito palestras, apresento e facilito sessões de pitch de fundadores para clientes ou empresas, investidores ou autoridades públicas. Eu construo soluções digitais em tecnologia espacial, IA e em particular a nova geração de soluções baseadas em GPT (chatGPT, DALL-E e similares), web3 blockchain IA generativa, computação quântica, XR.
+	12/2020 –
+	REPÚBLICA CHECA (Híbrido)
+	EUSPA (Agência da UE para o Programa Espacial)
+	Especialista em Inovação e Empreendedorismo do Mercado Downstream da Space
+(Tecnologia espacial, inovação, empreendedorismo)
+	Forneço serviços de desenvolvimento de mercado e inovação no segmento downstream para a EUSPA, com foco na conexão de dados e tecnologia espaciais aos mercados. Apoio fundadores de startups espaciais e de tecnologia profunda por meio de coaching inicial, execução de programas de apoio ao empreendedorismo, estratégia de negócios e arquitetura curricular de desenvolvimento de habilidades. Também contribuo para o desenvolvimento, monitoramento e avaliação de conteúdo real e para a estratégia de entrada no mercado. 
+Como parte das nossas atividades de inovação empresarial, lançamos uma iniciativa Espaço e Metaverso, explorando sinergias entre produtos blockchain e tecnologia espacial. Além disso, dou palestras sobre sinergias entre dados de satélite e tecnologias emergentes como quantum, web3 e realidade estendida (XR). Como parte da minha função, apoio regularmente candidatos selecionados aos nossos desafios de inovação (Solução MyGalileo, MyEUspace e agora desafios CASSINI) apoio no desenvolvimento de produtos e negócios com foco particular em tecnologia profunda. As soluções propostas abordaram desafios em vários domínios, como biotecnologia, tecnologia médica, tecnologia financeira e mitigação das alterações climáticas; Aplicativos de computação quântica e distribuição de chaves quânticas para maior segurança dentro do metaverso, também conhecido como gêmeos digitais imersivos persistentes também foram explorados. Por último, contribuí para os programas de desenvolvimento de competências da EUSPA e depois para a Academia Espacial, particularmente no desenvolvimento do programa de desenvolvimento de competências MyGalileo, que incluiu uma introdução ao Quantum e outros cursos sobre como capacitar a tecnologia espacial com computação quântica, inteligência artificial e tecnologia de contabilidade descentralizada.
+	11/2021 – 02/2023
+	SUÉCIA
+	Hospital Universitário Sahlgrenska
+	Estrategista de Tecnologia da Informação
+	Ajudar a maior instituição de saúde da Suécia a apoiar os profissionais médicos na digitalização do setor, na automatização de algumas tarefas redundantes sem valor acrescentado, na melhor visualização de dados e muito mais. Os benefícios das tecnologias que exploramos e testamos para pacientes e profissionais de saúde são, mas não se limitam a, IA, AR VR, IoT.
+	11/2019 –
+	RUANDA / ÁFRICA
+	INSTITUTO AFRICANO DE BLOCKCHAIN (ABI)
+	Membro do Conselho, Conselheiro (voluntário)
+	Ajudar e orientar a ABI na sua missão de educar, sensibilizar e formar comunidades em tecnologia de contabilidade distribuída (DLT), governação e aplicações (em particular para criptomoedas, logística, prova de origem, identidade única ou CBDC), online e híbrida.
+	05/2018 – 12/2019
+	RUANDA
+	NIRDA
+	Consultor Especialista Sênior em Tecnologia Industrial
+	- Lidero o primeiro laboratório STEM e programa de incubação/aceleração de startups do país, para enfrentar desafios complexos e perversos no contexto da Indústria 4.0, Empreendedorismo e Inovação. 
+- Supervisão da documentação do projeto, projeto arquitetônico e elétrico da instalação, lista de materiais (BoM) / lista de quantidades (BoQ) do equipamento, digitalização do horizonte futuro, produto (software e hardware) e desenvolvimento de negócios usando uma ampla gama de ferramentas (CAD, dados ferramentas de mapeamento de visualização analítica + GIS, máquinas 3D, etc.). 
+- Membro do Grupo de Trabalho Técnico para diversas estratégias de tecnologia de inovação do Governo de Ruanda. 
+- Algumas de minhas conquistas incluem INNOVATE 4 INDUSTRY RWANDA Hackathon, um Open Innovation Challenges para startups de hardware inteligentes, e o programa de incubação STEM 4 INDUSTRY Hub (primeiro grupo hospedado no GIZ-GoR DigiCenter).
+	07/2016 – 11/2019
+	RUANDA
+	GEEKALI LTDA
+	Empreendedor e Arquiteto de Soluções
+	Como arquiteto de soluções freelance, desenvolvi uma ampla gama de protótipos, incluindo aplicativos web baseados em sistemas de posição de geolocalização (GPS) que aproveitam os serviços API do Google, MapBox e/ou ESRI - de forma autônoma ou co-desenvolvida com parceiros baseados entre a África e Europa.
+	02/2015 – 11/2015
+	BÉLGICA
+	GOOGLE
+	Gerente de Programa de Data Centers EMEA e Especialista em Material de Treinamento
+	Nesta função de prazo fixo, liderei a concepção, entrega e implementação na região EMEA do primeiro programa de Padrões de Qualificação Operacional para equipas de Operação, com o objectivo de melhorar as competências do pessoal através de formação (e-learning e on-the-job). O acompanhamento do progresso específico da geolocalização é garantido por meio de ferramentas de análise e visualização; mapeamento de sistemas elétricos e mecânicos de locais com ferramentas CAD abertas.
+	03/2014 – 03/2015
+	EUA
+	SOS INTERNACIONAL
+	Analista de dados, gerenciamento de projetos
+	Apoiar as unidades de negócios de consultoria médica da divisão América na produção de relatórios de business intelligence sobre a utilização dos serviços da empresa pelos clientes, aproveitando processamento de dados específicos (R, python, MS Excel) e ferramentas de visualização (GIS - Tableau ou Plotly - para mapeamento. também explorou maneiras de melhorar os processos de relatórios internos, apoiou o desenvolvimento de planos de preparação para pandemias (Ebola, Influenza) tanto no lado técnico (visualização + mapeamento) quanto no lado comercial, bem como na migração de dados da divisão para SharePoint.
+	04/2009 – 06/2009
+	BÉLGICA
+	CLÍNICA SÃO JEAN
+	Estagiário Tecnólogo em Radioterapia
+
+
+	Estágios académicos no âmbito dos anos de tese de licenciatura Divisão de Vigilância Terrestre e Raios Naturais Agência Federal de Controlo Nuclear « Radioactividade Ambiental: Radão O Assassino Invisível » - Participação no plano Radão: Sessões de informação de mapeamento de viagens de campo - Análise estatística de dados medição de radão interior - Reconhecimento do Diretiva 96/29 Euratom relativa à proteção contra radiações ionizantes Tipo de empresa ou setor: Agência Ambiental Nuclear
+	02/2011 – 06/2011
+	BÉLGICA
+	FANC/AFCN
+	Estagiário de pesquisa de radioatividade ambiental
+
+
+	Estágios académicos no âmbito dos anos de dissertação de mestrado Departamento de Radioterapia Saint Jean Clinical «Controlo de qualidade em radiologia: relação entre índice de exposição e dose do paciente. Caso da Placa de Fósforo Fujifilm Imaging » - Pesquisa; estabelecimento de um plano de experimento - Teste e Validação: radiação de 'fantasmas' de Plexiglas variando parâmetros (espessura [cm] tensão [kV] corrente [mA]) - Comparação dos resultados da simulação com situação real de exame
+	
+
+
+
+   15. Educação:
+INSTITUIÇÃO 
+[DATA DE – DATA AT]
+	GRAU(S) OU DIPLOMA(S) OBTIDO(S)
+	CURSO
+[06/2022 – ]
+	(Certificação) Computação Quântica. Menos fórmulas – mais compreensão
+
+
+	UNIVERSIDADE DE TECNOLOGIA CHALMERS, SUÉCIA
+[11/2019 – 2021]
+	Programa de mestrado, Sistemas Adaptativos Complexos
+	AICPA (Instituto Chartered de Contadores de Gestão)
+[10/2020 – ]
+	Introdução ao Blockchain: evolução e conceitos de tecnologia
+	PESQUISA NUCLEAR NACIONAL MEPhI 
+[08/2019]
+	Instalações Nucleares MEPHI013x: Regulamentações e Licenciamento
+	INCUBADORA DE SORRISO - MEDICAL VILLAGE, SUÉCIA
+[11/2017 – 02/2018]
+	Health2B - Programa Acelerador de Tecnologia em Saúde
+	CENTRO DE INOVAÇÃO MICROSOFT, BÉLGICA
+[0/2016 – 12/2016]
+	Programa Boostcamp do Centro de Inovação Microsoft (MIC)
+	ESCOLA DE SAÚDE PÚBLICA 
+JOHNS HOPKINS BLOOMBERG 
+[07/2014]
+	A caixa de ferramentas do cientista de dados
+	MOUVEMENT QUÉBÉCOIS DE LA QUALITÉ (MQQ), CANADÁ 
+[03/2013 – 04/2013]
+	Cinturão Verde Seis Sigma
+	CENTRO DE TREINAMENTO DE PESQUISA TASE, BÉLGICA
+[01/2013]
+	Treinamento AutoCAD 3D
+	UNIVERSIDADE CATERPILLAR, BÉLGICA 
+[10/2011 – 10/2012]
+	Operador de Máquina CNC do Sistema de Produção Caterpillar (CPS)
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BÉLGICA
+[09/2009 – 06/2011]
+	Mestrado em Ciências Industriais, Engenharia Física e Nuclear
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BÉLGICA
+[09/2005 – 06/2009]
+	Bacharel em Arte (MA) em Ciências Industriais, Tecnologia de Engenharia
+	
+
+   16. Outras informações relevantes (ex. publicações):
+	Désiré Nzengou, Aki Galand, Tuire Tapanen, Radon: O Assassino Invisível, Academia,
+https://www.academia.edu/6155095/RADON_THE_INVISIBLE_KILLER_Radon_The_Invisible_Killer
+Contato: E. Désiré NZENGOU, +250 787 955600 / +46 76 5961891 
+desejo.yavro@gmail.com / des@desiredsolutions.me 
+- -

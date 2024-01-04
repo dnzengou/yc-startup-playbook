@@ -1,0 +1,229 @@
+﻿🚀🛰️ Tech Startup Coach
+Machine Learning & Web Developer
+
+
+	
+
+	4. First names:
+	Eugène Désiré
+	5. Family name:
+	Nzengou
+	6. Date of birth:
+	17/03/1984
+	7. Nationality:
+	Central African, Rwandese, Belgian
+	8. Place of residence:
+	Sweden / Rwanda
+	9. Civil status:
+	Married
+	10. Contact:
+	+46 76 5961891 desire.yavro@gmail.com / des@desiredsolutions.me 
+	
+
+1. Language skills: Indicate competence on a scale of 1 to 5 (1 – excellent; 5 – basic)
+LANGUAGE
+	READING
+	SPEAKING
+	WRITING
+	Sango
+	mother tongue
+	French
+	mother tongue
+	English
+	1
+	1
+	1
+	Swedish
+	4
+	3
+	3
+	Portugal
+	3
+	3
+	4
+	
+
+	
+
+	
+
+	
+
+	
+
+11. Membership of professional bodies:
+	AIESEC
+PMI (Project Management Institute)
+MQQ (Mouvement Québécois de la Qualité)
+	12. Other skills: 
+(e.g. computer literacy, etc.)
+	
+
+Programming and simulation skills
+   * HTML, CSS, JavaScript (React JS / Next JS), Python
+   * Generative AI tech stack: Hugging Face, Langchain, Open AI GPTs API, Pinecone
+   * Web3 tech stack: ERC20 and ERC721 token standards on Ethereum and Binance Layer-1
+   * XR tech stack: WebGL, ARjs, Unity
+
+
+Communication skills
+   * Good communication skills gained through my experience as a social media community manager or administrator for several startup projects
+   * Managing difficult communication and assertiveness; Conflict management
+
+
+Organizational / managerial skills
+   * Inclusive, diverse, disruptive Innovation
+   * Leadership
+   * Team management
+   * Resource mobilization
+
+
+	   13. Present position:
+	Market Innovation consultant and startup coach
+	   14. Years within the firm:
+	3
+	
+
+
+
+
+
+
+
+   2. Key qualifications (relevant to the assignment):
+   * Generative AI, Data Science, Machine Learning
+   * Cloud computing
+   * Space tech, Nuclear, Deep tech, Blockchain and web3, AI & Generative AI, Quantum technology, AR
+   * Python programming, applications, ecosystem mapping
+   * Data processing, data visualization, Business Intelligence
+   * Physics,  computer engineering and web development
+   * Capacity building, Training ,Startup coaching and innovation
+   * Lean, Six Sigma, Agile, Design Thinking, Solutions Design & Solution Architect
+   * Complex problem solving (modeling; simulation; analytics)
+
+
+
+
+
+
+   3. Professional experience:
+DATE FROM –DATE TO
+	LOCATION
+	ORGANIZATION
+	POSITION
+	DESCRIPTION
+	12/2020 –
+	SWEDEN
+	DESIRED SOLUTIONS
+	Technology, Business Innovation and Web Developer consultant - Freelance
+	Boutique technology innovation and strategy consultancy delivering data analytics,  data visualization (using GIS / on QGIS, Power BI, python programming), operations support to innovative organizations, training, coaching, business and prototyping services for technology-based products (leveraging AI - Machine Learning or Deep Learning, Blockchain, Internet of Things, Augmented and Virtual Reality, GIS) to public and private organizations. This versatile role enables me to contribute to cross functional, cross cultural distributed teams, impacting the tech, business, financial and strategic aspects of the organizations. Tools and methods applied are Lean, human-centered Design, Agile. Delivering for clients startup mentoring and IT project management (e-commerce strategy).
+Through my work I meet interesting, talented individuals, give and facilitate keynote speaking, pitch and facilitate founders pitch sessions to customer or corporate, investors or public authorities. I build digital solutions on Space Technology, AI and in particular the new generation of GPT-powered solutions (chatGPT, DALL-E and the likes), web3 blockchain Generative AI,  Quantum Computing, XR.
+	12/2020 – 
+	CZECH REPUBLIC (Hybrid)
+	EUSPA (EU Agency for the Space Programme)
+	Space Downstream Market Innovation and Entrepreneurship specialist
+(Space technology, innovation, entrepreneurship)
+	I provide market development and downstream segment innovation services for EUSPA, focusing on connecting space data and technology to markets. I support space and deep tech startup founders through start-up coaching, entrepreneurship support program execution, business strategy, and skills development curriculum architecture. I also contribute to actual content development, monitoring and evaluation, and go-to-market strategy.
+As part of our entrepreneurship innovation activities, we launched a Space & Metaverse initiative, exploring synergies between blockchain products and space tech. Moreover, I give keynote speaking talks around synergies between satellite data and emerging technologies like quantum, web3, extended reality (XR). As part of my role, I regularly  support selected applicants to our innovation challenges (MyGalileo Solution, MyEUspace and now CASSINI challenges) support on product and business development with a particular focus on deep tech. The proposed solutions addressed challenges in various fields like biotech, medtech, fintech, and climate change mitigation; Quantum computing applications and quantum key distribution for enhanced security within the metaverse a.ka. persistent immersive digital twins were also explored. Finally, I contributed to the EUSPA skills development programmes then to Space Academy, particularly in the development of the MyGalileo skills development program, which included an introduction to Quantum and other courses on enabling space technology with quantum computing, artificial intelligence and decentralized ledger technology.
+	11/2021 – 02/2023
+	SWEDEN
+	Sahlgrenska University Hospital
+	Information Technology Strategist
+	Helping Sweden's largest healthcare institution support medical professionals in the digitization of the sector, automation of some redundant non-value added tasks, better data visualization and more. Technologies we explore and test for patients and healthcare professionals benefits are -but not limited to- AI, AR VR, IoT.
+	11/2019 – 
+	RWANDA / AFRICA
+	AFRICAN BLOCKCHAIN INSTITUTE (ABI)
+	Board Member, Advisor (volunteer)
+	Helping and guiding ABI in its mission to educate, raise awareness, train communities on distributed ledger technology (DLT), governance and applications (in particular for cryptocurrencies, logistic, proof-of-origin, single identity or CBDC), online and hybrid.
+	05/2018 – 12/2019
+	RWANDA
+	NIRDA
+	Senior Industrial Technology Expert Advisor
+	- I lead the country's first STEM laboratory and startups incubation / acceleration programme, to tackle complex wicked challenges in the context of Industry 4.0, Entrepreneurship and Innovation. 
+- Oversight on project documentation, facility architectural and electrical design, equipment’s bill of materials (BoM) / bill of quantities (BoQ), future horizon scanning, product (software & hardware) and business development using a wide range of tools (CAD, data analytics+GIS visualization mapping tools, 3D machines etc.).
+- Technical Working Group member for several Government of Rwanda’s innovation technology strategies.
+- Some of my achievements include INNOVATE 4 INDUSTRY RWANDA Hackathon, an Open Innovation Challenges for smart hardware startups, and STEM 4 INDUSTRY Hub incubation programme (first cohort hosted at the GIZ-GoR DigiCenter).
+	07/2016 – 11/2019
+	RWANDA
+	GEEKALI Ltd
+	Entrepreneur and Solution Architect
+	As a freelance solutions architect, I bootstrapped a wide range of prototypes, including geolocation position systems (GPS)-based web apps that leverages on google, MapBox and/or ESRI API services -- autonomously or co-developed with partners based between Africa and Europe.
+	02/2015 – 11/2015
+	BELGIUM
+	GOOGLE
+	EMEA Data Centers Program Manager and Training Material Specialist
+	In this fixed-term role, I led the design, delivery and deployment in the EMEA region of the first Operational Qualification Standards programme for Operation teams aiming at upscaling staff skills through training (e-learning and on-the-job). Geolocation specific progress tracking is ensured via analytics and visualization tools; sites' electrical and mechanical systems mapping with open CAD tools.
+	03/2014 – 03/2015
+	USA
+	INTERNATIONAL SOS
+	Data Analyst, Project Management
+	Supporting the medical consulting business units in the America’s division with producing business intelligence reports on clients usage of the company’s services, leveraging on specific data processing (R, python, MS Excel) and visualization tools (GIS - Tableau or Plotly - for mapping. I also explored ways to improve internal reporting processes, supported the pandemic preparedness plans development (Ebola, Influenza) on both the technical (visualization + mapping) and business sides, as well as the division’s data migration to SharePoint.
+	04/2009 – 06/2009
+	BELGIUM
+	SAINT JEAN CLINIC
+	Radiotherapy technologist trainee
+
+
+	Academic traineeships within the Bachelor thesis years Land Surveillance & Natural Ray Division Federal Agency of Nuclear Control « Environmental Radioactivity: Radon The Invisible Killer » - Participation in the Radon plan: Field trip mapping info sessions - Statistical data analysis indoor radon measurement - Acknowledgement of the Directive 96/29 Euratom on protection against ionizing radiation Type of Business or Sector: Environment Agency Nuclear
+	02/2011 – 06/2011
+	BELGIUM
+	FANC / AFCN
+	Environmental radioactivity research trainee
+
+
+	Academic traineeships within the master thesis years Radiotherapy department Saint Jean Clinical « Quality Control in radiology: Link between exposure index and patient dose. Case of Fujifilm Imaging Phosphorus Plate » - Research; establishment of a plan of experiment - Test and Validation: radiation of Plexiglas ‘phantoms’ varying parameters (thickness [cm] tension [kV] current [mA]) - Comparison of simulation results with real exam situation
+	
+
+
+
+   15. Education: 
+INSTITUTION
+[DATE FROM – DATE TO]
+	DEGREE(S) OR DIPLOMA(S) OBTAINED
+	COURSERA
+[06/2022 – ]
+	(Certification) Quantum Computing. Less Formulas - More Understanding
+
+
+	CHALMERS UNIVERSITY OF TECHNOLOGY, SWEDEN
+[11/2019 – 2021]
+	Master program, Complex Adaptive Systems
+	AICPA (Chartered Institute of Management Accountants)
+[10/2020 – ]
+	Introduction to Blockchain: Evolution and Technology Concepts
+	NATIONAL RESEARCH NUCLEAR MEPhI
+[08/2019]
+	MEPHI013x Nuclear Facilities: Regulations and Licensing
+	SMILE INCUBATOR - MEDICAL VILLAGE, SWEDEN
+[11/2017 – 02/2018]
+	Health2B - Health Tech Accelerator Program
+	MICROSOFT INNOVATION CENTER, BELGIUM
+[0/2016 – 12/2016]
+	Microsoft Innovation Center (MIC) Boostcamp Program
+	JOHNS HOPKINS
+BLOOMBERG SCHOOL OF PUBLIC HEALTH
+[07/2014]
+	The Data Scientist’s Toolbox
+	MOUVEMENT QUÉBÉCOIS DE LA QUALITÉ (MQQ), CANADA
+[03/2013 – 04/2013]
+	Six Sigma Green Belt
+	TASE RESEARCH TRAINING CENTER, BELGIUM
+[01/2013]
+	AutoCAD 3D Training
+	CATERPILLAR UNIVERSITY, BELGIUM
+[10/2011 – 10/2012]
+	Caterpillar Production System (CPS) CNC Machine Operator
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BELGIUM
+[09/2009 – 06/2011]
+	Master of Art (MA) in Industrial Sciences, Engineering Physics and Nuclear
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BELGIUM
+[09/2005 – 06/2009]
+	Bachelor of Art (MA) in Industrial Sciences, Engineering Technology
+	
+
+   16. Other relevant information (e.g. publications):
+	Désiré Nzengou, Aki Galand, Tuire Tapanen, Radon: The Invisible Killer, Academia,
+https://www.academia.edu/6155095/RADON_THE_INVISIBLE_KILLER_Radon_The_Invisible_Killer
+Contact: E. Désiré NZENGOU, +250 787 955600 / +46 76 5961891
+desire.yavro@gmail.com / des@desiredsolutions.me 
+-  -

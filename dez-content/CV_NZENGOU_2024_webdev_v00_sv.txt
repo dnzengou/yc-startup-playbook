@@ -1,0 +1,229 @@
+﻿🚀🛰️ Tech Startup Coach 
+Machine Learning & Web Developer
+
+
+	
+
+	4. Förnamn:
+	Eugène Désiré
+	5. Efternamn:
+	Nzengou
+	6. Födelsedatum:
+	1984-03-17
+	7. Nationalitet:
+	Centralafrikanska, rwandiska, belgiska
+	8. Bostadsort:
+	Sverige / Rwanda
+	9. Civilstånd:
+	Gift
+	10. Kontakt:
+	+46 76 5961891 desire.yavro@gmail.com / des@desiredsolutions.me 
+	
+
+1. Språkkunskaper: Ange kompetens på en skala från 1 till 5 (1 – utmärkt; 5 – grundläggande)
+SPRÅK
+	LÄSNING
+	TALA
+	SKRIFT
+	Sango
+	modersmål
+	franska
+	modersmål
+	engelsk
+	1
+	1
+	1
+	svenska
+	4
+	3
+	3
+	Portugal
+	3
+	3
+	4
+	
+
+	
+
+	
+
+	
+
+	
+
+11. Medlemskap i yrkesorganisationer:
+	AIESEC
+PMI (Project Management Institute)
+MQQ (Mouvement Québécois de la Qualité)
+	12. Andra färdigheter: 
+(t.ex. datorvana, etc.)
+	
+
+Programmerings- och simuleringsförmåga
+   * HTML, CSS, JavaScript (React JS / Next JS), Python
+   * Generativ AI-teknikstack: Hugging Face, Langchain, Open AI GPTs API, Pinecone
+   * Web3 tech stack: ERC20 och ERC721 token-standarder på Ethereum och Binance Layer-1
+   * XR tech stack: WebGL, ARjs, Unity
+
+
+Kommunikationsfärdigheter
+   * God kommunikationsförmåga tillägnad genom min erfarenhet som social media community manager eller administratör för flera startup-projekt
+   * Hantera svår kommunikation och självsäkerhet; Konflikthantering
+
+
+Organisatorisk/ledningsförmåga
+   * Inkluderande, mångsidig, störande innovation
+   * Ledarskap
+   * Laghantering
+   * Resursmobilisering
+
+
+	   13. Nuvarande position:
+	Market Innovation konsult och startup coach
+	   14. År inom företaget:
+	3
+	
+
+
+
+
+
+
+
+   2. Nyckelkvalifikationer (relevant för uppdraget):
+   * Generativ AI, datavetenskap, maskininlärning
+   * Molntjänster
+   * Rymdteknik, Nuclear, Deep tech, Blockchain och web3, AI & Generativ AI, Quantum Technology, AR
+   * Python-programmering, applikationer, ekosystemkartläggning
+   * Databehandling, datavisualisering, Business Intelligence
+   * Fysik, datateknik och webbutveckling
+   * Kapacitetsuppbyggnad, Utbildning, Startupcoaching och innovation
+   * Lean, Six Sigma, Agile, Design Thinking, Solutions Design & Solution Architect
+   * Komplex problemlösning (modellering, simulering, analys)
+
+
+
+
+
+
+   3. Professionell erfarenhet:
+DATUM FRÅN –DATUM TILL
+	PLATS
+	ORGANISATION
+	PLACERA
+	BESKRIVNING
+	12/2020 –
+	SVERIGE
+	ÖNSKADE LÖSNINGAR
+	Konsult inom teknik, affärsinnovation och webbutvecklare - Frilans
+	Boutiqueteknikinnovation och strategikonsulttjänster som levererar dataanalys, datavisualisering (med GIS / på QGIS, Power BI, python-programmering), driftstöd till innovativa organisationer, utbildning, coaching, affärs- och prototyptjänster för teknikbaserade produkter (som utnyttjar AI - Machine Learning or Deep Learning, Blockchain, Internet of Things, Augmented and Virtual Reality, GIS) till offentliga och privata organisationer. Denna mångsidiga roll gör det möjligt för mig att bidra till tvärfunktionella, tvärkulturellt distribuerade team, som påverkar de tekniska, affärsmässiga, finansiella och strategiska aspekterna av organisationerna. Verktyg och metoder som tillämpas är Lean, människocentrerad design, Agile. Leverera till kunder startup mentorskap och IT-projektledning (e-handelsstrategi).
+Genom mitt arbete möter jag intressanta, begåvade individer, ger och faciliterar keynote-talande, pitchar och faciliterar grundare pitchasessioner till kunder eller företag, investerare eller offentliga myndigheter. Jag bygger digitala lösningar på rymdteknologi, AI och i synnerhet den nya generationen av GPT-drivna lösningar (chatGPT, DALL-E och liknande), web3 blockchain Generative AI, Quantum Computing, XR.
+	12/2020 –
+	TJECKISKA REPUBLIKEN (Hybrid)
+	EUSPA (EU Agency for the Space Programme)
+	Space Downstream Market Innovation and Entrepreneurship Specialist
+(Rymdteknik, innovation, entreprenörskap)
+	Jag tillhandahåller marknadsutveckling och innovationstjänster för nedströmssegment för EUSPA, med fokus på att koppla samman rymddata och teknologi till marknader. Jag stödjer grundare av rymd- och djupteknologiska startups genom startupcoaching, genomförande av program för entreprenörskap, affärsstrategi och läroplansarkitektur för kompetensutveckling. Jag bidrar även till faktisk innehållsutveckling, uppföljning och utvärdering samt go-to-market strategi. 
+Som en del av våra innovationsaktiviteter för entreprenörskap lanserade vi ett Space & Metaverse-initiativ, som utforskar synergier mellan blockchain-produkter och rymdteknik. Dessutom håller jag keynote-föredrag om synergier mellan satellitdata och framväxande teknologier som quantum, web3, extended reality (XR). Som en del av min roll stöttar jag regelbundet utvalda sökande till våra innovationsutmaningar (MyGalileo Solution, MyEUspace och nu CASSINI challenges) stöd för produkt- och affärsutveckling med särskilt fokus på deep tech. De föreslagna lösningarna hanterade utmaningar inom olika områden som bioteknik, medicinteknik, fintech och begränsning av klimatförändringar; Quantum computing-applikationer och kvantnyckeldistribution för ökad säkerhet inom metaversen a.ka. ihållande uppslukande digitala tvillingar undersöktes också. Slutligen bidrog jag till EUSPA kompetensutvecklingsprogram då till Space Academy, särskilt i utvecklingen av kompetensutvecklingsprogrammet MyGalileo, som inkluderade en introduktion till Quantum och andra kurser om att möjliggöra rymdteknologi med kvantberäkning, artificiell intelligens och decentraliserad reskontrateknologi.
+	2021-11-2023
+	SVERIGE
+	Sahlgrenska Universitetssjukhuset
+	Informationsteknologistrateg
+	Att hjälpa Sveriges största sjukvårdsinrättning att stödja medicinsk personal i digitaliseringen av sektorn, automatisering av några överflödiga icke-värdeskapande uppgifter, bättre datavisualisering med mera. Tekniker som vi utforskar och testar för patienter och vårdpersonal är -men inte begränsade till - AI, AR VR, IoT.
+	11/2019 –
+	RWANDA / AFRIKA
+	AFRICAN BLOCKCHAIN INSTITUTE (ABI)
+	Styrelseledamot, rådgivare (volontär)
+	Att hjälpa och vägleda ABI i dess uppdrag att utbilda, öka medvetenheten, utbilda samhällen i distribuerad ledger-teknologi (DLT), styrning och applikationer (särskilt för kryptovalutor, logistik, ursprungsbevis, singelidentitet eller CBDC), online och hybrid.
+	05/2018 – 12/2019
+	RWANDA
+	NIRDA
+	Senior expertrådgivare inom industriteknik
+	– Jag leder landets första STEM-laboratorium och startups inkubations-/accelerationsprogram, för att tackla komplexa elaka utmaningar inom ramen för Industry 4.0, Entrepreneurship and Innovation. 
+- Övervakning av projektdokumentation, anläggningsarkitektur och elektrisk design, utrustningens materialförteckning (BoM) / kvantitetsförteckning (BoQ), framtida horisontskanning, produkt (mjukvara och hårdvara) och affärsutveckling med ett brett utbud av verktyg (CAD, data) analytics+GIS visualiseringskartläggningsverktyg, 3D-maskiner etc.). 
+- Medlem i teknisk arbetsgrupp för flera regeringar i Rwandas innovationsteknologistrategier. 
+- Några av mina prestationer inkluderar INNOVATE 4 INDUSTRY RWANDA Hackathon, en Open Innovation Challenges för startups av smart hårdvara och STEM 4 INDUSTRY Hub-inkubationsprogram (första kohorten värd vid GIZ-GoR DigiCenter).
+	07/2016 – 11/2019
+	RWANDA
+	GEEKALI Ltd
+	Entreprenör och lösningsarkitekt
+	Som frilanslösningsarkitekt startade jag ett brett utbud av prototyper, inklusive geolokaliseringspositionssystem (GPS)-baserade webbappar som utnyttjar google, MapBox och/eller ESRI API-tjänster - autonomt eller gemensamt utvecklade med partners baserade mellan Afrika och Europa.
+	02/2015 – 11/2015
+	BELGIEN
+	GOOGLE
+	EMEA Data Centers Program Manager och Training Material Specialist
+	I denna tidsbegränsade roll ledde jag utformningen, leveransen och implementeringen i EMEA-regionen av det första programmet för operativa kvalifikationsstandarder för operativa team som syftade till att skala upp personalens kompetens genom utbildning (e-learning och on-the-job). Geolokaliseringsspecifik framstegsspårning säkerställs via analys- och visualiseringsverktyg; webbplatsens elektriska och mekaniska systemkartläggning med öppna CAD-verktyg.
+	03/2014 – 03/2015
+	USA
+	INTERNATIONELL SOS
+	Dataanalytiker, projektledning
+	Stödja affärsenheterna för medicinsk konsultverksamhet i America's-divisionen med att producera affärsinformationsrapporter om kunders användning av företagets tjänster, utnyttja specifik databehandling (R, python, MS Excel) och visualiseringsverktyg (GIS - Tableau eller Plotly - för kartläggning. I undersökte också sätt att förbättra interna rapporteringsprocesser, stödde utvecklingen av pandemiberedskapsplaner (ebola, influensa) på både den tekniska (visualisering + kartläggning) och affärssidan, såväl som divisionens datamigrering till SharePoint.
+	04/2009 – 06/2009
+	BELGIEN
+	SAINT JEAN CLINIC
+	Strålterapiteknikerpraktikant
+
+
+	Akademiska praktikplatser inom kandidatexamensåren Land Surveillance & Natural Ray Division Federal Agency of Nuclear Control « Environmental Radioactivity: Radon The Invisible Killer » - Deltagande i Radonplanen: Informationssessioner för kartläggning av studiebesök - Statistisk dataanalys inomhus radonmätning - Erkännande av Direktiv 96/29 Euratom om skydd mot joniserande strålning Typ av verksamhet eller sektor: Environment Agency Nuclear
+	2011-02-2011
+	BELGIEN
+	FANC / AFCN
+	Miljöradioaktivitetsforskare
+
+
+	Akademiska praktikplatser inom masteruppsatsåren Radioterapiavdelning Saint Jean Clinical « Kvalitetskontroll i radiologi: Koppling mellan exponeringsindex och patientdos. Fall av Fujifilm Imaging Phosphorus Plate » - Forskning; upprättande av en experimentplan - Test och validering: strålning av plexiglas "fantomer" varierande parametrar (tjocklek [cm] spänning [kV] ström [mA]) - Jämförelse av simuleringsresultat med verklig undersökningssituation
+	
+
+
+
+   15. Utbildning:
+INSTITUTION 
+[DATUM FRÅN – DATUM TILL]
+	GRAD(ER) ELLER DIPLOM(ER) ERHÅLADE
+	KURSERA
+[06/2022 – ]
+	(Certifiering) Quantum Computing. Mindre formler – mer förståelse
+
+
+	CHALMERS TEKNISKA UNIVERSITET, SVERIGE
+[11/2019 – 2021]
+	Masterprogram, Complex Adaptive Systems
+	AICPA (Chartered Institute of Management Accountants)
+[10/2020 – ]
+	Introduktion till Blockchain: Evolution och teknologikoncept
+	NATIONELL FORSKNING NUCLEAR MEPhI 
+[08/2019]
+	MEPHI013x Nuclear Facilities: Regulations and Licensing
+	SMILE INCUBATOR - MEDICINSKA BY, SVERIGE
+[11/2017 – 02/2018]
+	Health2B - Health Tech Accelerator Program
+	MICROSOFT INNOVATIONSCENTER, BELGIEN
+[0/2016 – 12/2016]
+	Microsoft Innovation Center (MIC) Boostcamp-program
+	JOHNS HOPKINS 
+BLOOMBERG SCHOOL OF FOLKHÄLSA 
+[07/2014]
+	Dataforskarens verktygslåda
+	MOUVEMENT QUÉBÉCOIS DE LA QUALITÉ (MQQ), KANADA 
+[03/2013 – 04/2013]
+	Six Sigma grönt bälte
+	TASE RESEARCH TRAINING CENTER, BELGIEN
+[01/2013]
+	AutoCAD 3D-träning
+	CATERPILLAR UNIVERSITY, BELGIEN 
+[10/2011 – 10/2012]
+	Caterpillar Production System (CPS) CNC-maskinoperatör
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BELGIEN
+[09/2009 – 06/2011]
+	Master of Art (MA) i industriella vetenskaper, teknisk fysik och kärnkraft
+	ISIB – HAUTE ÉCOLE BRUXELLES-BRABANT, BELGIEN
+[09/2005 – 06/2009]
+	Kandidatexamen i industriella vetenskaper, ingenjörsteknik
+	
+
+   16. Annan relevant information (t.ex. publikationer):
+	Désiré Nzengou, Aki Galand, Tuire Tapanen, Radon: The Invisible Killer, Academia,
+https://www.academia.edu/6155095/RADON_THE_INVISIBLE_KILLER_Radon_The_Invisible_Killer
+Kontakt: E. Désiré NZENGOU, +250 787 955600 / +46 76 5961891 
+desire.yavro@gmail.com / des@desiredsolutions.me 
+-- _
