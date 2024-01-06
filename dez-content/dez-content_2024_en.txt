@@ -1,0 +1,399 @@
+
+Eugène Désiré Nzengou
+
+Physics Engineer | Project Leader | Web Developer & Data Analyst
+ desiredsolutions.me
+ des@desiredsolutions.me
+
+
+Personal statement
+ME IN A NUTSHELL
+
+A mixed culture through my Rwandan, Central African origins and a Belgian citizenship,
+
+I am an engineer technologist and nuclear physicist living in Sweden and serving clients all around Europe with the main one based In Czech Republic. System thinker with a consistent critical approach, versatility is a clearly demonstrated skill of mine combined with a deep interest in – but not limited to – Data Analytics, Innovation, AI, Blockain, eXtended Reality - XR (AR / VR), Capacity Building, Diversity in Tech and Inclusion.
+If you are looking for a versatile, cross-functional and cross-cultural professional, someone who can talk tech, budget and innovation with a can-do attitude; I am that one.
+
+If instead, you’d rather settle for a risk-averse, predictable linear alternatvie, I would be glad to recommend someelse ☺
+
+
+Countries I have lived and/or worked in include Italy, Belgium, Portugal (Açores), Greece, Sweden, France, Canada, USA, Central African Republic, Rwanda, Benin. Organizations I have worked with include some of the Fortune 500, such as Google and Caterpillar, as well as public organizations like the EUSPA - European Agency for the Space Programme - and Government of Rwanda . I also worked for innovative fast pace public organizations and government. My previous managers can vouch for my outstanding achievements
+
+Eager learner of Complexity Theory and adaptive systems simulations, I enjoy diving into the core of things, solve problems with a mix of methodologies learned amaths and programming (mostly in Matlab, python or C++) to simulate complex adaptive systems – such as the climate, ecosystems, the society, startup organizations etc. in order to drive data-backed decision making.
+
+
+
+If you work on the following 👇🏾 I can help!
+
+Innovation, machine learning powered web apps, systems modeling, keynote public speaking, innovation enabling activiites (incubation/acceleration, capacity building workshop, fundraising and resources mobilization, pitch coaching, business and technology development, analytics, web3 and generative AI prototyping & more.
+
+What drives me? Challenging projects, opportunities of learning, travels, nature. And fun things 🌈 ;-)
+
+Eugène Désiré Nzengou
+
+Education & Certification
+Master Programme in Complex Adaptive Systems
+CHALMERS – Gothenburg University
+
+Some of the courses followed within the Complex Adaptive Systems programme:
+
+Artificial Neural Network
+Simulation of Complex Systems
+Game Theory and Rationality
+Dynamical Systems
+Stochastic Optimization
+Quantum Field Theory
+etc.
+
+More details here .
+2019-2020
+
+Master Degree in Industrial Sciences & Engineering Physics
+Industrial Engineering Institute of Brussels - ISIB
+
+Studying specific aspects of Engineering Physics and Nuclear, including nuclear, wind and solar-based energy production, nuclear safety and radiation protection, radiotherapy and radiology, radiation measurement, medical physics, chemistry physics, materials science, thermodynamics and flow dynamics, etc.
+along with courses that deal with the optimization of complex processes or systems.
+More details (fr) here.
+
+2009-2011
+
+Bachelor Degree in Engineering Technology
+Industrial Engineering Institute of Brussels - ISIB
+
+Receiving a cross-training over common general engineering courses such as mathematics , physics and chemistry , mechanics, graphic techniques, IT - C++, Java, SQL programming, electrical, fluid mechanics , thermodynamics, an introduction to project management, etc. on top of specific nuclear and physics topics.
+More details (fr) here.
+
+2005-2009
+
+The Datascientist's Toolbox Certification
+Bloomberg School of Public Health, John Hopkins University - coursera.org
+
+Introduction to two main components: the ideas behind turning data into actionable knowledge, and a practical approach to the tools commonly met such as version control, markdown, git, GitHub, R, and RStudio.
+
+2014
+
+Lean Six-Sigma Green Belt Certification
+Mouvement Québecois de la Qualité - MQQ
+
+Training for professionals to be well versed in the Lean Six Sigma Methodology who both leads or supports improvement projects. Provides a thorough understanding of all aspects within the phases of D-M-A-I-C.
+
+2013
+
+Additional classes. For more details, see here
+
+Essentiels of Systems and Networks - L'Essentiel des Systèmes et Réseaux
+IRiSib
+
+Complementary Degree in Management (ongoing)
+ICHEC Brussels Management School
+
+Job Experiences
+Desired Solutions
+Tech consultant & web developer
+
+A bespoke technology innovation & strategy company delivering consultancy services, including;
+Coaching to space and deep tech startups
+Business and technology development startups
+Curriculum Development, design and delivery
+Tokenomics / crypto token economics with incentives-based mechanisms
+Data analytics, processing and visualization
+ML model implementation, deployment to the web
+Through my work I meet interesting, talented individuals, give and facilitate keynote speaking, pitch and facilitate founders pitch sessions to customer or corporate, investors or public authorities.
+I build digital solutions on Space Technology, AI and in particular the new generation of GPT-powered solutions (chatGPT, DALL-E and the likes), web3 blockchain Generative AI, Quantum Computing, XR.
+
+01.2020 -
+
+​Market and Space Downstream Innovation consultant
+EUSPA – European Agency for the Space Programme
+
+Market Innovation and Entrepreneurship Specialist Using Space 🚀 on Earth.
+
+Coach and mentors on technologies and business development to space tech and deep tech startups accelerated under the EUSPA initiatives within CASSINI.eu programmes (CASSINI challenges, MyGalileoSolution, myEUspace, Space Academy, Space 🚀 & geospatial metaverse initiative, startups-investors-customers matchmaking & more).
+Ensuring compliance to technology regulation (MiCA, AI Act etc), environmental and sustainability good practices.
+11.2019 -
+
+​Senior Industrial Technology Expert (Tech Advisor)
+NIRDA – National Industrial Research and Development Agency
+
+As Senior Industrial Technology Advisor for the Government of Rwanda’s National Industrial Research and Development Agency (NIRDA), we are building up Rwanda’s first STEM-based laboratory for product development and business incubation.
+
+A particular emphasis is put on solutions for energy storage, mobility, agro-processing, health tech, eductech.
+
+Areas covered: Smart hardware products development; startups mentoring; Governance, UX/UI Design.
+Skills developed and technology applied: IoT basics; Machine Learning modeling on sensors data; Science Research and Technology Innovation policies; Human-Centered Design approach; Resources mobilization
+05.2018 -
+
+Africa Blockchain Institute
+Board Member
+
+Building Blockchain Capacities in Africa for Digital Transformation.
+Educating, raising awareness, training communities on distributed ledger technology, governance and applications.
+We bring to Africa, through a headquarter in Rwanda, a platform for open discussion and peer to peer sharing on everything-blockchain and cryptocurrencies, for education purpose, assistance in regulation and policy writing, raise awareness of human-centerd use of the emerging technology.
+
+11.2019 -
+
+​Web & Business Development for bootstrapping early-stage startups
+Portfolio
+
+Areas covered:
+Lean and Design Thinking; Business plans; Team management, UX/UI Design; webapp prototyping.
+Skills developed and technology applied: web & mobile development (HTML, JavaScript, CSS/SASS, Ionic framework, Python); Data analysis & Machine Learning (R, Matlab / octave); Programming (node.js, MySQL); Cloud computing: Cloud Cognitive Services (Microsoft Azure, GCD, IBM Watson), Simulation & Modeling
+03.2016 -
+
+Program Manager - EMEA | Training Material Specialist
+Google (by Unique interim)
+
+Leading the development and deployment of a ‘world­class’ training program on Operational Qualification Standards (OQS) for the Data Center Operations teams in the EMEA region.
+Areas covered: Web and mobile application platform; Business plans; Team management, UX/UI Design; web and mobile apps prototyping
+Skills developed and technology applied: web & mobile development (HTML, JavaScript, CSS/SASS, Ionic framework, Angular JS); Data analysis & Machine Learning (R, Matlab / octave); Programming (Java, node.js, SQL); Cloud computing: Microsoft Azure, Amazon Web Services
+02.2015 - 11.2015
+
+Data Analyst / Project Management support
+International SOS - ISOS.
+
+Performing data analysis on company's clients reports for storytelling and trends drawing. Continuously improve the standardization processes involved in building, maintaining and presenting reports. Autonomous and comprehensive Project management support. In particularl in the data migration from Medical Consulting division's shared drives to MS SharePoint, ISOS Medical Sites Utilization analysis, Pandemic plan delivery process and reporting (for Ebola, Influenza, Measles), client's Global Account Plan (GAP) from salesforce.com reporting
+
+03.2014-02.2015
+
+Research Engineer trainee
+Laboratório Regional de Engenharia Civil - LREC
+
+Non-destructive Testing and Evaluation (NDT&E) technique in civil engineering to analyze the impact of humidity and termites on Sao Miguel (Azores) edifices integrity. Use of FLIR E40bx Camera and Imaging System - Infrared radiation (IR) thermography for that purpose
+
+2014
+
+Additional experiences. More details, see here
+
+Business and Technical development (volunteering)
+JustRunIt
+
+Business and financial planning. Design of a website (beta) and prototyping. Web and mobile application development undergoing.
+
+Laboratory Technician - Water Quality
+INOVA
+
+Implement on food and water samples analytical methods (Extraction Liquid - Liquid & Gravimetry) for quality control based on the US Environmental Protection Agency (EPA) Method 1664. Assist in internal quality audits. Implement the Quality Management System ISO/IEC 17025.
+
+Senior Learning Consultant / EMEA CPS Master Trainer
+Caterpillar
+
+Work on the deployment of CPS Technical training programs (for assembler, machine-operator, welder) in EAME machining training, standardization of processes, aim being to avoid rework and redundant quality checks by improving the Quality of products and Safety of employees.
+
+Money transfert Expert
+The Bank of New York Mellon - BNYM
+
+Back office operations via SWIFT for our clients (subsidiairies and partner banks). Handling liquidity books. Reconciliation of forecasts on cash and flow trades. Liaise with traders with speedy calculated figures for markets trades.
+
+VP Exchange - ICX & OGX (volunteering)
+AIESEC
+
+managing the overall selection process of trainees (Incoming and Outgoing Exchange) in collaboration with my team (+- 10 people). Building partnerships partners (companies, NGOs, other committees). Work in partnership with local committee departments (Project, External (Corporate) Relation and Finance).
+
+Technical skills
+Python
+
+80% Complete
+R
+
+75% Complete
+Angular JS
+
+30% Complete
+Node JS
+
+55% Complete
+Adobe Illustrator
+
+80% Complete
+Articulate Storyline 2
+
+80% Complete
+HTML
+
+70% Complete
+JavaScript
+
+40% Complete
+DMAIC
+
+85% Complete
+Microsft Azure
+
+70% Complete
+Amazon Web Service
+
+50% Complete
+Language skills
+English
+
+85% Complete (success)
+French
+
+100% Complete (success)
+Dutch
+
+55% Complete (success)
+Portuguese
+
+70% Complete
+Awards
+Euroweek Conference Business & Environment certificate
+PrimeNetwork
+
+Natural radioactivity due to radon in Belgium and Finland.
+
+Start-up project Award of Collaborative Economy
+Molengeek co-working
+
+Business model canvas designed around the collaborative economy.
+
+Most Tech Award
+Microsoft Innovation Center
+
+Melvin the Emergency Bot.
+
+Testimonials
+I worked very closely with Eugène. He was an incredible resource for my team at Google and I truly believe he would be a significant asset to any organization.
+
+
+Shmuel D.
+Google
+
+Eugene is energetic, driven, and wants to accomplish as much as possible each day. He is friendly, engaging, cooperative, and congenial.
+
+
+Tanya F.
+International SOS
+
+I have known Desire since the time we met at local Artificial Intelligence (AI) meetup. At the time, he was driving a lot of tech initiatives, inspiring and advising young innovators, and attracting people to join meetups in field of AI, Augmented and Virtual Reality (AR VR), Internet of Things (IoT) and Blockchain. I recommend him for (and not limited to) startups advising, implementing technical projects and pushing the state of tech in community.
+
+
+Jean de Dieu N.
+DeepLearning.AI Ambassador programme
+
+Personal Assets
+
+Designed by © desire.yavro
+
+Desired Solutions
+ABOUT
+CONTACT
+SERVICES
+MAP
+
+
+HEY, I'M DÉSIRÉ.
+Do you need help with?
+
+I help founders and organizations turn their digital products or services into successful data-driven businesses with a user-centered focus.
+Launching new ventures, or improving upon an existing one, can be a complex task with many unknown factors and changing conditions.
+Business and Technology Startup Consulting services can help.
+
+I will offer expert advice at a click of a button and help you turn ideas into reality
+Improve the chances of success, save time and cost, increase the quality of deliverables
+And co-design, build, test, measure, learn and improve.
+
+me Me in a nutshell
+Industrial engineer with a specialization in technology and nuclear physics, experienced startup founder in charge of technology, solution design and business development, I am today a senior professional with successes in small to large-scale projects and programme management.
+I love building web apps and pitch decks people love, advocating for diversity, inclusion and fairness, developing skills and training teams.
+What drives me? Fun challenges, learn new things, travels and exploring cultures.
+
+Ready to quick-start your next project? Drop a line or give a call!
+
+Services.
+Deep Tech Startup Coaching
+Strategy and planning for problem and solution exploration.
+
+Identification and selection
+Product or service design
+
+Pitch and business model training
+Revenue modeling (SaaS/HaaS/PaaS/e-com)
+
+Web analytics and Search Engine Optimization (SEO), Content marketing, Conversion funnel
+Curriculum & Learning Material Development
+Identifying user needs
+Gathering resources from research or subject-matter experts
+
+Develop training materials over various levels of understanding
+Deploy course modules to beta -then live- learners, measure progress, build data visualizations and reporting to audience and management.
+
+Decentralized Ledger Technology Advisory
+Web3 innovation-as-a-service with a human-centered design approach to problem solving. Educating, raising awareness, training communities on blockchain technology, governance and applications (in particular for cryptocurrencies, logistic, proof-of-origin, single identity or CBDC), online, in-person and hybrid.
+Innovation & Data-driven Business Development with Storytelling
+We co-build with enterprises the ability to use compeling and authentic stories in their sales conversations with customers.
+
+Quantum Computing Software-as-a-Service
+Helping industry actors to solve complex problems by harnessing the power of quantum computing technologies. Application software and services that leverage non-linear system modeling and heuristic mathematics, built on top of gate-based quantum computers, quantum annealer and classical solvers, as well as quantum hardware like quantum random number generator. 
+Skills
+Python
+
+75% Complete
+R
+
+60% Complete
+Node JS
+
+55% Complete
+React
+
+40% Complete
+Machine Learning - AI - Data Science
+
+70% Complete
+HTML
+
+90% Complete
+Blockchain
+
+70% Complete
+Process & methods (Lean - Six Sigma - Agile - Design Thinking)
+
+85% Complete
+Cloud DevOps
+
+60% Complete
+Info Sec
+
+50% Complete
+Quantum computing
+
+50% Complete
+Space technology
+
+70% Complete
+English
+
+90% Complete
+French
+
+100% Complete
+Portuguese
+
+65% Complete
+Swedish
+
+70% Complete
+
+& More
+
+Some clients and partners
+european agency for the space programme
+european space agency
+instituto pedro nunes
+international organization for migration
+sahgrenska university hospital digital center
+africa blockchain institute
+Here is what they say
+Shmuel D., Google
+shmuel-recommendation "I worked very closely with Eugène. He was an incredible resource for my team at Google and I truly believe he would be a significant asset to any organization."
+Tanya F., International SOS
+tanya-recommendation "Eugene is energetic, driven, and wants to accomplish as much as possible each day. He is friendly, engaging, cooperative, and congenial."
+Jean de Dieu N.
+jean-recommendation "I have known Desire since the time we met at local Artificial Intelligence (AI) meetup. At the time, he was driving a lot of tech initiatives, inspiring and advising young innovators, and attracting people to join meetups in field of AI, Augmented and Virtual Reality (AR VR), Internet of Things (IoT) and Blockchain. (...) I recommend him for (and not limited to) startups advising, implementing technical projects and pushing the state of tech in community."
+
+  
+© 2020-2024 desiredsolutions
+Made with  and 
+This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
